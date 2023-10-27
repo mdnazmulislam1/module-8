@@ -1,0 +1,41 @@
+.card{
+  width: 100%;
+  height: 450px;
+  border: 1px solid lightblue;
+  text-align: center;
+  background-color: rgb(243, 245, 245); 
+  color: black;
+}
+.card img{
+  width: 100%;
+  height: 300px;
+}
+.card button{
+  background-color: rgb(230, 43, 68);
+  border: none;
+  color: black;
+}
+.card button :hover{
+  background-color: antiquewhite;
+  border: 1px solid rgb(184, 184, 26);
+  cursor: pointer;
+}
+.card-2{
+  width: 100%;
+  height: 450px;
+  border: 1px solid rgb(60, 183, 224);
+  text-align: center;
+  background-color: rgb(132, 174, 174); 
+  color: black;
+  align-items: center;
+}
+.card-2 button{
+  background-color: rgb(230, 43, 59);
+  border: none;
+  color: black;
+}
+.card-2 img{
+  width: 100%;
+  height: 300px;
+}
+
